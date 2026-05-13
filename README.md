@@ -19,9 +19,9 @@ This project focused on configuring and monitoring Windows Server event logs to 
 - Investigated suspicious activities and system changes
 - Learned how continuous monitoring supports threat detection and incident response
   
-![System Hardening Lab](screenshot/1.png)
-![System Hardening Lab](screenshot/2.png)
-![System Hardening Lab](screenshot/3.png)
+![System Hardening Lab](screenshot/a.png)
+![System Hardening Lab](screenshot/b.png)
+![System Hardening Lab](screenshot/c.png)
 
 ## Lessons Learned
 - Developed practical experience with Windows Event Viewer
@@ -29,7 +29,7 @@ This project focused on configuring and monitoring Windows Server event logs to 
 - Learned how monitoring supports SOC operations and threat detection
 - Improved troubleshooting and analytical investigation skills
 
-![Configuring System Monitoring Lab](screenshot/4.png)
+![Configuring System Monitoring Lab](screenshot/d.png)
 
 ## Next Steps
 - Integrate SIEM solutions
